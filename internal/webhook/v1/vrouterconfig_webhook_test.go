@@ -20,7 +20,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
 	// TODO (user): Add any additional imports if needed
 )
 

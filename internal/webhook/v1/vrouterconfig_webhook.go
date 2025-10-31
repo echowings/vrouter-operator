@@ -26,7 +26,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 	"sigs.k8s.io/controller-runtime/pkg/webhook/admission"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
 )
 
 // nolint:unused

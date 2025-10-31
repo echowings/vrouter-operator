@@ -32,7 +32,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 	"sigs.k8s.io/controller-runtime/pkg/webhook/admission"
 
-	"github.com/tjjh89017/vrouter-operator/constants"
+	"github.com/echowings/vrouter-operator/constants"
 )
 
 // nolint:unused

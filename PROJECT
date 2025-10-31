@@ -9,7 +9,7 @@ plugins:
   manifests.sdk.operatorframework.io/v2: {}
   scorecard.sdk.operatorframework.io/v2: {}
 projectName: vrouter-operator
-repo: github.com/tjjh89017/vrouter-operator
+repo: github.com/echowings/vrouter-operator
 resources:
 - api:
     crdVersion: v1
@@ -18,7 +18,7 @@ resources:
   domain: kojuro.date
   group: vrouter
   kind: VRouterConfig
-  path: github.com/tjjh89017/vrouter-operator/api/v1
+  path: github.com/echowings/vrouter-operator/api/v1
   version: v1
   webhooks:
     defaulting: true

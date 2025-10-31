@@ -37,9 +37,9 @@ import (
 	metricsserver "sigs.k8s.io/controller-runtime/pkg/metrics/server"
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
-	"github.com/tjjh89017/vrouter-operator/internal/controller"
-	webhookv1 "github.com/tjjh89017/vrouter-operator/internal/webhook/v1"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
+	"github.com/echowings/vrouter-operator/internal/controller"
+	webhookv1 "github.com/echowings/vrouter-operator/internal/webhook/v1"
 
 	// +kubebuilder:scaffold:imports
 

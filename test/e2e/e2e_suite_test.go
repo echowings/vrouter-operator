@@ -25,7 +25,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/tjjh89017/vrouter-operator/test/utils"
+	"github.com/echowings/vrouter-operator/test/utils"
 )
 
 var (

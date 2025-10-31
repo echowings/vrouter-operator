@@ -23,5 +23,5 @@ const (
 	VRouterConfigAnnotation = "vrouter.kojuro.date/config"
 
 	SidecarContainer      = "vrouter-operator"
-	SidecarContainerImage = "docker.io/tjjh89017/vrouter-operator:latest"
+	SidecarContainerImage = "docker.io/echowings/vrouter-operator:latest"
 )

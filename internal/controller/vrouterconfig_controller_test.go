@@ -27,7 +27,7 @@ import (
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
 )
 
 var _ = Describe("VRouterConfig Controller", func() {

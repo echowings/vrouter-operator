@@ -33,8 +33,8 @@ import (
 
 	corev1 "k8s.io/api/core/v1"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
-	"github.com/tjjh89017/vrouter-operator/constants"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
+	"github.com/echowings/vrouter-operator/constants"
 )
 
 // VRouterConfigReconciler reconciles a VRouterConfig object

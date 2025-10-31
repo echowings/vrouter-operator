@@ -1,4 +1,4 @@
-module github.com/tjjh89017/vrouter-operator
+module github.com/echowings/vrouter-operator
 
 go 1.24.0
 

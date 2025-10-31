@@ -32,7 +32,7 @@ import (
 	logf "sigs.k8s.io/controller-runtime/pkg/log"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	vrouterv1 "github.com/tjjh89017/vrouter-operator/api/v1"
+	vrouterv1 "github.com/echowings/vrouter-operator/api/v1"
 	// +kubebuilder:scaffold:imports
 )
 
